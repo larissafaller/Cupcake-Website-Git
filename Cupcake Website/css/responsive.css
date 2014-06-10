@@ -1,0 +1,87 @@
+/******************************
+FOR LARGER THAN 440px
+******************************/
+
+@media screen and (min-width: 660px) {
+
+nav li {
+  padding-top: 0px;
+}
+
+h1 {
+  font-size: 1.75em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+#cupcakes-gallery img {
+    float:left;
+
+}
+
+/******************************
+FOR LARGER THAN 820px
+******************************/
+
+@media screen and (min-width: 820px) {
+
+#logo {
+	float:left;
+}
+
+h1 {
+  font-size: 1.95em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+nav ul {
+	float: right;
+}
+
+nav li {
+  display: inline-block;
+  float:left;
+  padding-top: 50px;
+}
+
+nav a {
+  font-weight: 400;
+  padding: 15px 10px;
+  font-size: 1em;
+}
+
+.cater-pic {
+  margin-bottom: 20px;
+  width: 45%;
+}
+
+#top-div {
+  overflow: auto;
+}
+
+.float-left {
+  float: left;
+  max-width: 50%;
+}
+
+.float-right {
+  float: right;
+  max-width: 50%;
+}
+
+
+}
+
+
+
+
+
+
+
+
+

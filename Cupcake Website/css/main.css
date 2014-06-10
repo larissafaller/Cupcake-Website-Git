@@ -1,0 +1,256 @@
+/******************************
+GENERAL
+******************************/
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+
+/******************************
+TEXT
+******************************/
+
+body {font-family: 'Roboto Slab', serif;
+      font-weight: 400;
+      line-height: 140%;
+}
+
+h1, h2 {font-family: 'Roboto', sans-serif;
+        font-weight: 300; 
+}
+
+h1 {
+  font-size: 1.5em;
+  color: #DA678E;
+  text-align: center;
+  margin-top:0;
+}
+
+h2 {
+  font-size: 1.2em;
+  color: #000;
+  text-align: center;
+}
+
+p {
+  display: block;
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 15px;
+}
+
+a { 
+  text-decoration: none; 
+}
+
+
+
+/******************************
+HEADER
+******************************/
+
+header {
+  background: #000;
+  float: left;
+  margin: 0 0 20px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+  }
+
+#logo {
+  margin: 0px 0 5px 0;
+}
+
+
+
+/******************************
+NAV
+******************************/
+
+nav {
+  padding: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin-right: 5%;
+}
+
+nav li {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100; 
+}
+
+nav a {
+  font-weight: 400;
+  font-size: 1.3em;
+}
+
+nav a, nav a:visited {
+  color: #fff;
+}
+
+nav a.selected {
+  color: #FF70A0;
+}
+
+nav a:hover {
+  color: #DA678E;
+}
+
+
+
+/******************************
+FOOTER
+******************************/
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding: 40px 0;
+  color: #bbb;
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+}
+
+#white-box {
+  height:100px;
+  clear:both;
+}
+
+
+
+/******************************
+INDEX PAGE
+******************************/
+
+#pink-banner {
+  color: #fff;
+  text-align: center;
+  background: #DA678E;
+  display: block;
+  margin: 0 auto;
+  padding: 15px 0px;
+  width: 75%;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+
+#welcome {
+  color: #fff;
+}
+
+img#home-pic {
+  display: block;
+  margin: 0 auto;
+  width: 75%;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+}
+
+
+
+/******************************
+ABOUT PAGE
+******************************/
+
+img.center-pic {
+  display: block;
+  margin: 0 auto;
+  width: 75%;
+  border: 2px solid #000;
+}
+
+img#sisters-pic-1 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+
+
+/******************************
+CUPCAKES PAGE
+******************************/
+
+#cupcakes-gallery img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  width: 150px;
+  padding: 20px 20px;
+}
+  
+#cupcakes-gallery {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#prices {
+  text-align: center;
+  margin-bottom:20px;
+}
+
+
+
+/******************************
+CATERING PAGE
+******************************/
+
+.cater-pic {
+  max-width: 300px;
+  max-height: 200px;
+}
+
+
+
+/******************************
+CONTACT PAGE
+******************************/
+#contact-page p {
+  text-align: left;
+
+
+}
+#contact-page li {
+  display: block;
+  width: 75%;
+  margin: 15px auto;
+  font-size: 0.8em;
+}
+
+.contact-icons {
+  width: 15px;
+  height: 15px;
+  margin: 0 5px;
+}
+
+
+
+
+
+
+
+
